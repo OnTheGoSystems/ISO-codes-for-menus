@@ -1,5 +1,6 @@
 {
   "name" : "ISO codes for menus",
+  "version": "1.0.0",
   "for": ["menus"],
   "settings": {
     "display_flags": 0,
