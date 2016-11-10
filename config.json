@@ -1,0 +1,9 @@
+{
+  "name" : "ISO codes for menus",
+  "for": ["menus"],
+  "settings": {
+    "display_flags": 0,
+    "display_names_in_native_lang": 0,
+    "display_names_in_current_lang": 0
+  }
+}
